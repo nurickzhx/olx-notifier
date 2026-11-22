@@ -1,0 +1,7 @@
+{
+  "BOT_TOKEN": "9116139030:AAG5y-mmx6fqRzRoXhA4nX3fKqFzMe_9oi8",
+  "CHAT_ID": 2130669585,
+  "ENABLED": true,
+  "CITIES": ["almaty", "nur-sultan", "shymkent", "karaganda", "aktobe", "kostanay", "pavlodar", "taraz", "uralsk", "semey"],
+  "KEYWORDS": ["iphone", "playstation 5", "компьютер", "macbook"]
+}
