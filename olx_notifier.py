@@ -5,7 +5,7 @@ Telegram‑bot, который периодически проверяет вы�
 сообщения о новых объявлениях в личный чат.
 """
 
-import json, hashlib, time
+import json, hashlib, time, random
 import requests
 from bs4 import BeautifulSoup
 import os
